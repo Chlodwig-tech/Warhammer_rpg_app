@@ -1,0 +1,185 @@
+profession;basic;WW;US;K;Odp;Zr;Int;SW;Ogd;A;Żyw;Sz;Mag;book
+Akolita;podstawowa;5;5;0;5;0;10;10;10;0;2;0;0;podręcznik podstawowy
+Akolita kultu Khorna;specjalna;20;0;10;15;5;0;15;0;1;4;0;0;Księga spaczenia
+Akolita kultu Nurgla;specjalna;10;0;0;20;5;0;15;15;0;3;0;1;Księga spaczenia
+Akolita kultu Slaanesha;specjalna;5;5;0;0;10;20;0;25;0;3;0;1;Księga spaczenia
+Akolita kultu Tzeentcha;specjalna;5;5;0;0;5;20;10;20;0;3;0;1;Księga spaczenia
+Ambasador;zaawansowana;10;10;5;10;10;30;30;40;0;6;0;0;Kraina królowej rodu
+Arcykapłan;zaawansowana;20;20;15;15;15;20;30;25;1;6;0;3;podręcznik podstawowy
+Arcykapłan zaklinaczy;zaawansowana;15;10;10;20;0;35;40;20;1;5;0;4;Księga spaczenia
+Arcymag;zaawansowana;15;15;5;15;20;35;40;20;0;5;0;4;podręcznik podstawowy
+Arcymistrz run;zaawansowana;20;15;20;15;15;30;40;15;2;6;0;4;Królestwo Magii
+Arystokrata;zaawansowana;25;15;10;10;10;20;20;30;1;6;0;0;podręcznik podstawowy
+Ataman;zaawansowana;10;10;5;15;5;30;20;25;0;4;0;0;Kraina królowej rodu
+Banita;podstawowa;10;10;0;0;10;5;0;0;1;2;0;0;podręcznik podstawowy
+Bard;zaawansowana;10;10;0;0;15;10;5;25;0;4;0;0;podręcznik podstawowy
+Berserker z Norski;podstawowa;15;0;10;10;0;0;10;0;0;2;0;0;podręcznik podstawowy
+Bestigor;specjalna;20;0;15;15;20;5;20;10;1;6;0;0;Księga spaczenia
+Biczownik;zaawansowana;15;0;10;15;5;0;20;10;1;6;0;0;podręcznik podstawowy
+Bosman;zaawansowana;15;15;10;15;10;10;10;10;1;4;0;0;podręcznik podstawowy
+Chłop;podstawowa;5;5;5;10;5;0;5;0;0;2;0;0;podręcznik podstawowy
+Ciura obozowa;podstawowa;0;0;0;5;10;5;5;10;0;2;0;0;podręcznik podstawowy
+Cyrkowiec;podstawowa;5;10;0;0;10;0;5;10;0;2;0;0;podręcznik podstawowy
+Cyrulik;podstawowa;5;0;0;0;10;10;10;5;0;2;0;0;podręcznik podstawowy
+Czarnoksiężnik;zaawansowana;10;10;10;10;15;15;20;20;0;4;0;2;Królestwo Magii
+Czarownik;zaawansowana;5;5;5;10;10;10;15;15;0;4;0;2;Królestwo Magii
+Czekista;podstawowa;10;5;5;5;5;5;5;0;0;2;0;0;Kraina królowej rodu
+Czeladnik run;podstawowa;5;0;5;0;0;10;15;0;0;2;0;1;Królestwo Magii
+Demagog;zaawansowana;10;10;0;10;15;20;15;30;1;4;0;0;podręcznik podstawowy
+Duszołap;zaawansowana;10;10;0;10;15;30;35;15;0;4;0;3;Księga spaczenia
+Dworzanin;zaawansowana;5;5;0;0;10;20;20;20;0;4;0;0;podręcznik podstawowy
+Egzekutor;podstawowa;15;0;10;5;0;0;10;0;0;3;0;0;4 nieoficjalne profesje
+Fanatyk;podstawowa;10;0;5;10;0;0;10;5;0;2;0;0;podręcznik podstawowy
+Fechtmistrz;zaawansowana;40;40;25;25;30;0;20;0;2;8;0;0;podręcznik podstawowy
+Flisak;podstawowa;10;5;5;5;10;5;0;0;0;2;0;0;podręcznik podstawowy
+Giermek;podstawowa;10;5;5;5;5;0;0;5;1;2;0;0;podręcznik podstawowy
+Gladiator;podstawowa;15;0;0;10;10;0;10;0;0;2;0;0;podręcznik podstawowy
+Goniec;podstawowa;10;0;5;5;10;5;5;0;0;2;1;0;podręcznik podstawowy
+Górnik;podstawowa;5;5;10;5;0;5;5;0;0;2;0;0;podręcznik podstawowy
+Grabieżca;podstawowa;10;0;5;5;10;0;10;0;1;2;0;0;Księga spaczenia
+Guślarz;podstawowa;0;0;0;5;5;5;10;10;0;2;0;1;podręcznik podstawowy
+Handlarz niewolnikami;zaawansowana;20;20;20;0;10;0;10;0;0;4;0;0;Księga spaczenia
+Herold;zaawansowana;10;10;5;5;15;15;10;20;0;4;0;0;podręcznik podstawowy
+Herszt banitów;zaawansowana;20;30;10;20;10;10;10;20;2;6;0;0;podręcznik podstawowy
+Hiena cmentarna;podstawowa;10;0;0;0;10;10;10;5;0;2;0;0;podręcznik podstawowy
+Husarz;zaawansowana;25;15;15;15;15;0;15;15;1;4;0;0;Kraina królowej rodu
+Inżynier;zaawansowana;10;15;5;5;10;20;10;0;0;4;0;0;podręcznik podstawowy
+Inzynier Chaosu;zaawansowana;10;10;0;5;10;10;0;0;0;3;0;0;Księga spaczenia
+Kanciarz;podstawowa;5;5;0;0;10;5;5;10;0;2;0;0;podręcznik podstawowy
+Kapitan;zaawansowana;25;20;15;20;20;20;25;30;2;6;0;0;podręcznik podstawowy
+Kapłan;zaawansowana;10;10;5;10;5;10;20;15;0;4;0;1;podręcznik podstawowy
+Kapłan zaklinaczy;zaawansowana;10;5;0;10;0;15;20;10;0;3;0;2;Księga spaczenia
+Karczmarz;zaawansowana;10;5;5;10;20;10;10;20;0;4;0;0;podręcznik podstawowy
+Kataklizator;zaawansowana;15;15;5;15;20;35;40;20;0;5;0;4;Księga spaczenia
+Knuj;specjalna;10;20;10;10;20;10;15;0;1;4;0;0;podręcznik podstawowy
+Koczownik;podstawowa;10;10;0;5;5;0;10;0;0;2;0;0;Kraina królowej rodu
+Koniarz;podstawowa;0;5;5;0;5;5;5;5;0;2;0;0;Kraina królowej rodu
+Koniuszy;zaawansowana;5;15;15;10;15;20;15;25;0;5;0;0;Kraina królowej rodu
+Konny łucznik;zaawansowana;15;25;15;15;15;0;15;5;1;4;0;0;Kraina królowej rodu
+Korsarz;podstawowa;10;0;10;5;10;0;0;0;1;2;0;0;Księga spaczenia
+Kowal run;zaawansowana;10;5;10;5;5;20;25;5;0;3;0;2;Królestwo Magii
+Kozak kislevski;podstawowa;10;10;0;10;0;0;10;0;0;2;0;0;podręcznik podstawowy
+Król areny;zaawansowana;35;10;15;15;20;5;15;10;2;6;0;0;4 nieoficjalne profesje
+Książe złodziei;zaawansowana;20;20;15;15;20;25;20;30;1;6;0;0;podręcznik podstawowy
+Kupiec;zaawansowana;10;10;5;5;10;25;20;20;0;4;0;0;podręcznik podstawowy
+Lancknecht;podstawowa;10;10;5;5;10;0;0;0;1;2;0;0;4 nieoficjalne profesje
+Leśnik;podstawowa;10;0;10;0;5;0;10;0;0;3;0;0;podręcznik podstawowy
+Leśny duch;zaawansowana;20;30;15;15;25;20;20;0;2;6;0;0;podręcznik podstawowy
+Lodowa czarownica;zaawansowana;15;0;5;20;15;30;40;15;0;6;0;4;Kraina królowej rodu
+Lodowa panna;zaawansowana;5;0;0;10;5;20;25;10;0;4;0;2;Kraina królowej rodu
+Łowca;podstawowa;0;15;0;5;10;5;0;0;0;3;0;0;podręcznik podstawowy
+Łowca czarownic;zaawansowana;30;30;15;15;15;15;35;20;2;6;0;0;podręcznik podstawowy
+Łowca nagród;podstawowa;5;10;5;0;10;0;5;0;0;2;0;0;podręcznik podstawowy
+Łowca wampirów;zaawansowana;20;20;10;20;15;15;20;0;1;4;0;0;podręcznik podstawowy
+Majordomus;zaawansowana;10;10;10;10;0;30;20;25;0;4;0;0;podręcznik podstawowy
+Medyk;zaawansowana;0;0;10;10;15;30;20;15;0;4;0;0;podręcznik podstawowy
+Mieszczanin;podstawowa;5;0;0;0;5;10;5;5;0;2;0;0;podręcznik podstawowy
+Mistrz cieni;zaawansowana;20;20;10;10;40;25;20;25;1;6;0;0;podręcznik podstawowy
+Mistrz gildii;zaawansowana;10;10;0;10;15;30;20;35;1;5;0;0;podręcznik podstawowy
+Mistrz magii;zaawansowana;10;10;0;10;15;30;35;15;0;4;0;3;podręcznik podstawowy
+Mistrz run;zaawansowana;15;10;15;10;10;25;35;10;1;5;0;3;Królestwo Magii
+Mistrz rzemiosła;zaawansowana;0;0;10;10;20;10;10;10;0;3;0;0;podręcznik podstawowy
+Mistrz zaklinaczy;zaawansowana;10;10;5;15;0;25;30;15;1;4;0;3;Księga spaczenia
+Mistrz zakonny;zaawansowana;35;10;20;20;20;15;25;15;2;8;0;0;podręcznik podstawowy
+Mytnik;podstawowa;10;5;5;10;5;0;5;0;0;2;0;0;podręcznik podstawowy
+Najemnik;podstawowa;10;10;5;5;5;0;5;0;1;2;0;0;podręcznik podstawowy
+Nawigator;zaawansowana;10;10;5;5;10;25;10;5;0;4;0;0;podręcznik podstawowy
+Obszarnik;zaawansowana;5;10;0;0;10;5;10;10;0;3;0;0;Księga spaczenia
+Ochotnik;podstawowa;10;5;5;5;10;0;0;0;0;2;0;0;podręcznik podstawowy
+Ochroniarz;podstawowa;10;0;5;5;5;0;0;0;1;3;0;0;podręcznik podstawowy
+Odkrywca;zaawansowana;20;20;10;15;15;25;20;15;1;6;0;0;podręcznik podstawowy
+Oficer;zaawansowana;30;20;20;20;20;15;15;15;2;7;0;0;podręcznik podstawowy
+Oprawca;zaawansowana;15;0;20;10;10;10;20;15;0;4;0;0;podręcznik podstawowy
+Oprych;podstawowa;10;0;5;5;0;0;5;5;1;2;0;0;podręcznik podstawowy
+Paser;zaawansowana;15;10;10;5;10;5;10;10;1;4;0;0;podręcznik podstawowy
+Paź;podstawowa;0;0;0;0;10;10;5;10;0;2;0;0;podręcznik podstawowy
+Podżegacz;podstawowa;5;5;0;0;5;10;0;10;0;2;0;0;podręcznik podstawowy
+Poganiacz;podstawowa;5;10;10;5;10;0;5;0;0;2;0;0;Kraina królowej rodu
+Porywacz zwłok;podstawowa;5;5;5;0;10;0;10;0;0;2;0;0;podręcznik podstawowy
+Poskramiacz niedźwiedzi;podstawowa;5;0;10;5;5;0;10;5;0;2;0;0;Kraina królowej rodu
+Posłaniec;podstawowa;5;5;0;5;10;5;5;0;0;2;0;0;podręcznik podstawowy
+Prawiedźma;zaawansowana;0;0;5;20;10;40;30;15;0;6;0;3;Kraina królowej rodu
+Przemytnik;podstawowa;5;5;0;0;10;10;0;10;0;2;0;0;podręcznik podstawowy
+Przepatrywacz;podstawowa;5;10;0;0;10;10;5;0;0;2;0;0;podręcznik podstawowy
+Przewoźnik;podstawowa;5;5;10;5;5;5;0;0;0;2;0;0;podręcznik podstawowy
+Rajtar;zaawansowana;20;20;10;10;15;0;15;15;1;4;0;0;podręcznik podstawowy
+Reketer;zaawansowana;20;15;15;10;10;0;15;10;1;5;0;0;podręcznik podstawowy
+Rozbójnik;zaawansowana;20;20;10;10;30;20;15;25;1;4;0;0;podręcznik podstawowy
+Rybak;podstawowa;0;5;10;5;10;5;0;0;0;2;0;0;podręcznik podstawowy
+Rycerz;zaawansowana;25;0;15;15;15;5;15;5;1;4;0;0;podręcznik podstawowy
+Rycerz Chaosu;zaawansowana;20;5;15;15;20;5;15;5;1;6;0;0;Księga spaczenia
+Rycerz Pantery;zaawansowana;30;0;15;15;15;10;10;15;1;6;0;0;Księga spaczenia
+Rzecznik rodu;podstawowa;5;5;0;0;5;10;5;10;0;2;0;0;podręcznik podstawowy
+Rzemieślnik;podstawowa;0;0;5;5;10;5;10;0;0;2;0;0;podręcznik podstawowy
+Rzezimieszek;podstawowa;10;0;10;0;10;0;10;0;1;2;0;0;podręcznik podstawowy
+Ścigacz;podstawowa;10;10;0;5;15;0;5;0;0;2;0;0;4 nieoficjalne profesje
+Sierżant;zaawansowana;20;15;10;10;10;10;10;20;1;4;0;0;podręcznik podstawowy
+Siłacz;specjalna;20;10;15;15;15;0;15;10;1;6;0;0;podręcznik podstawowy
+Skald;podstawowa;5;0;5;0;5;10;5;10;0;2;0;0;Księga spaczenia
+Skryba;podstawowa;0;0;0;0;10;10;10;5;0;2;0;0;podręcznik podstawowy
+Skrytobójca;zaawansowana;25;25;10;10;30;20;10;20;2;4;0;0;podręcznik podstawowy
+Sługa;podstawowa;5;0;5;0;10;5;10;5;0;2;0;0;podręcznik podstawowy
+Śmieciarz;podstawowa;5;0;5;10;5;0;5;5;0;2;0;0;podręcznik podstawowy
+Strażnik;podstawowa;10;5;5;0;5;10;0;5;0;2;0;0;podręcznik podstawowy
+Strażnik dróg;podstawowa;10;10;5;0;10;5;5;0;0;2;0;0;podręcznik podstawowy
+Strażnik pól;podstawowa;5;10;0;5;10;0;10;0;0;2;0;0;podręcznik podstawowy
+Strażnik więzienny;podstawowa;10;0;10;10;0;0;5;0;0;3;0;0;podręcznik podstawowy
+Strielec;podstawowa;10;10;5;5;5;0;5;0;0;2;0;0;Kraina królowej rodu
+Strzelec;zaawansowana;0;35;10;10;25;10;20;15;1;4;0;0;podręcznik podstawowy
+Szaman;specjalna;10;10;5;10;10;15;20;15;0;4;0;2;Bestiariusz starego świata
+Szaman rykowców;specjalna;5;0;5;10;10;10;15;10;1;6;0;2;Księga spaczenia
+Szampierz;zaawansowana;35;0;15;15;20;10;15;0;2;6;0;0;podręcznik podstawowy
+Szarlatan;zaawansowana;10;10;5;10;15;15;15;25;0;4;0;0;podręcznik podstawowy
+Szczurołap;podstawowa;5;10;0;5;10;0;10;0;0;2;0;0;podręcznik podstawowy
+Szermierz estalijski;podstawowa;15;0;5;5;10;5;0;0;1;2;0;0;podręcznik podstawowy
+Szlachcic;podstawowa;10;5;0;0;5;5;5;10;0;2;0;0;podręcznik podstawowy
+Szpieg;zaawansowana;15;15;5;10;20;20;35;20;1;4;0;0;podręcznik podstawowy
+Tarczownik;podstawowa;10;0;5;5;10;0;5;0;1;2;0;0;podręcznik podstawowy
+Tkacz zagłady;zaawansowana;5;5;0;5;10;20;25;10;0;3;0;2;Księga spaczenia
+Uczeń czarodzieja;podstawowa;0;0;0;0;5;10;15;5;0;2;0;1;podręcznik podstawowy
+Uczeń szamana;specjalna;5;5;0;5;5;10;10;10;0;2;0;1;Bestiariusz starego świata
+Uczennica czarownicy;podstawowa;0;0;0;10;5;10;10;0;0;2;0;1;Kraina królowej rodu
+Uczony;zaawansowana;5;5;5;5;10;30;15;15;0;4;0;0;podręcznik podstawowy
+Ulubieniec Chaosu;zaawansowana;25;10;20;20;20;10;20;10;2;8;0;0;Księga spaczenia
+Urzędnik;zaawansowana;5;5;5;10;0;20;10;20;0;4;0;0;podręcznik podstawowy
+Vitki;zaawansowana;15;10;10;10;10;15;25;20;1;5;0;2;Księga spaczenia
+Wędrowny czarodziej;zaawansowana;5;5;0;5;10;20;25;10;0;3;0;2;podręcznik podstawowy
+Węglarz;podstawowa;5;0;5;5;5;5;5;5;0;2;0;0;podręcznik podstawowy
+Weteran;zaawansowana;20;20;10;10;15;0;15;0;1;6;0;0;podręcznik podstawowy
+Wiedźma;zaawansowana;0;0;5;10;5;25;20;10;0;4;0;1;Kraina królowej rodu
+Wielki szaman;specjalna;15;15;10;15;15;20;25;20;1;6;0;3;Bestiariusz starego świata
+Wielki szaman rykowców;specjalna;20;10;15;20;20;20;30;20;2;8;0;4;Księga spaczenia
+Wielorybnik;podstawowa;5;5;10;10;10;0;0;0;1;2;0;0;Księga spaczenia
+Włamywacz;zaawansowana;10;10;5;5;25;10;10;0;0;4;0;0;podręcznik podstawowy
+Włóczykij;podstawowa;5;10;0;0;10;5;0;5;0;2;0;0;podręcznik podstawowy
+Wódz;zaawansowana;20;0;20;20;10;5;10;10;2;5;0;0;Księga spaczenia
+Wódz klanu;specjalna;30;20;20;20;35;15;20;20;2;8;0;0;podręcznik podstawowy
+Wódz zwierzoludzi;specjalna;30;10;25;25;30;10;20;15;2;8;0;0;Księga spaczenia
+Woj;podstawowa;10;5;5;5;5;0;5;0;1;2;0;0;Księga spaczenia
+Wojownik Chaosu;zaawansowana;10;0;10;10;10;0;10;0;1;4;0;0;Księga spaczenia
+Wojownik klanowy;podstawowa;5;5;0;0;10;10;5;0;0;2;0;0;podręcznik podstawowy
+Woźnica;podstawowa;5;10;0;0;10;0;5;5;0;2;0;0;podręcznik podstawowy
+Wróżbita;podstawowa;0;0;0;0;5;5;10;15;0;2;0;1;Księga spaczenia
+Wtajemniczony kultu Khorna;specjalna;40;5;20;30;10;0;15;5;2;7;0;0;Księga spaczenia
+Wtajemniczony kultu Nurgla;specjalna;15;5;5;30;10;5;20;15;1;5;0;2;Księga spaczenia
+Wtajemniczony kultu Slaanesha;specjalna;10;10;5;5;20;30;0;40;1;5;0;2;Księga spaczenia
+Wtajemniczony kultu Tzeentcha;specjalna;10;10;5;5;10;40;20;30;1;5;0;2;Księga spaczenia
+Wybraniec boży;zaawansowana;15;15;10;10;10;15;25;20;1;5;0;2;podręcznik podstawowy
+Wybraniec Chaosu;zaawansowana;30;15;25;30;25;15;30;15;2;9;0;0;Księga spaczenia
+Wywyższony wybraniec Chaosu;zaawansowana;40;20;30;40;30;20;40;20;3;10;0;0;Księga spaczenia
+Zabójca demonów;zaawansowana;40;0;30;30;20;0;30;0;2;8;0;0;podręcznik podstawowy
+Zabójca olbrzymów;zaawansowana;25;0;15;15;10;0;20;0;1;6;0;0;podręcznik podstawowy
+Zabójca trolli;podstawowa;10;0;5;5;5;0;10;0;1;3;0;0;podręcznik podstawowy
+Żak;podstawowa;0;0;0;0;10;10;5;10;0;2;0;0;podręcznik podstawowy
+Zakapturzony brat;zaawansowana;15;10;15;15;25;30;25;30;1;6;0;0;Księga spaczenia
+Zaklinacz;podstawowa;5;0;0;5;0;5;15;5;0;2;0;1;Księga spaczenia
+Zakonnik;zaawansowana;10;0;5;10;0;15;15;15;0;4;0;0;podręcznik podstawowy
+Zarządca;podstawowa;5;5;5;0;0;10;5;10;0;2;0;0;podręcznik podstawowy
+Żeglarz;podstawowa;10;5;10;0;10;0;0;0;1;2;0;0;podręcznik podstawowy
+Złodziej;podstawowa;5;5;0;0;15;5;0;10;0;2;0;0;podręcznik podstawowy
+Złowróż;specjalna;0;0;0;0;5;10;15;5;0;2;0;1;Księga spaczenia
+Znachorka;podstawowa;0;0;0;5;0;15;10;5;0;2;0;0;Kraina królowej rodu
+Żołnierz;podstawowa;10;10;0;0;10;0;5;0;1;2;0;0;podręcznik podstawowy
+Żołnierz okrętowy;podstawowa;10;10;10;0;5;0;5;0;1;3;0;0;podręcznik podstawowy
+Zwadźca;zaawansowana;20;20;10;20;20;15;15;10;1;4;0;0;podręcznik podstawowy
+Zwiadowca;zaawansowana;20;20;10;10;15;20;15;0;1;6;0;0;podręcznik podstawowy
