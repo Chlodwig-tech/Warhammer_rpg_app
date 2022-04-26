@@ -1,0 +1,9 @@
+1-12 Walka Wręcz +10 / Umiejętności Strzeleckie +10
+13-24 Krzepa +10
+25-37 Odporność +10
+38- 50 Zręczność +10
+51- 62 Ogłada +10
+63-74 Siła woli +10
+75-87 Ataki +1
+88-95 Żywotność +4
+96-100 Szybkość +1

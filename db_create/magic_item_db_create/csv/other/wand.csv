@@ -1,0 +1,8 @@
+wand;chance;description
+Posiada cechę Biżuterii;10;Wylosuj jedną cechę z tabeli cech biżuterii
+Posiada cechę Klejnotu Mocy;20;Wylosuj jedną cechę z tabeli cech Klejnotu Mocy
+Różdżka Gagatu;36;Splatanie magii przy rzucaniu czaru daje podwójny dodatek do poziomu mocy
+Różdżka Jadeitu;52;Przy rzucaniu czaru można podwoić zasięg zaklęcia przy pomocy udanego testu SW. Nie działa na zaklęcia dotykowe
+Kostur Helstruma;68;Trzymany w ręku kostur zapewnia +20 do Ogłady w czasie przemówień do tłumów. Dokładniejszy opis w Królestwach magii
+Kostur magicznego uziemienia;84;O ile kostur dotyka ziemi to stanowi zabezpieczenie przez przekleństwem Tzeentcha. Pochłania on pomniejsze manifestacja i wyrzuca je w ziemię, tak, by nie miały one żadnego efektu. Nie wpływa jednak na większe i katastrofalne manifestacje
+Różdżka magicznego dotyku;100;Każdy przedmiot dotknięty tą różdżką uzyskuje cechę “Magiczny” na 10 minut

@@ -1,0 +1,17 @@
+jewelry;chance;description;additional
+Posiada cechę Pancerza;10;Wylosuj 1 ceche pancerza;
+Efekt trzykrotnie błogosławionej miedzi;16;Obrażenia zadane noszącemu nie-magicznymi broniami są zmniejszone o 1. Osoba nosząca przedmiot otrzymuje +20 do testów odporności przeciw truciznom oraz przedmiot przybliżony na 3 cm od trucizny zmieni kolor na zielony Dokładniejszy opis w Królestwach magii;
+Nieugiętości;22;Przedmiot zmienia wartość Wt postaci na 7 niezależnie od wartości cechy “odporność”. Przedmioty nie można zdjąć bez zabicia noszącego;
+Efekt zaklętego jadeitu;28;Noszący ten przedmiot może wykonać test odporności co rundę. Udany test pozwala zregenerować 1 pkt żywotności;
+Efekt węgla;34;W przedmiocie jest zaklęta energia pocisku, którą można wyzwolić za pomocą akcji w walce. Pocisk trafia automatycznie w wskazany cel z Siłą 5;db_create/magic_item_db_create/csv/special/ladunki.txt
+Efekt żelaza;40;Przedmiot wzmacnia Siłę Woli noszącego w testach przeciwko efektom magicznym. W tych testach daje on premię +30. Nie może być wykorzystywany przez postaci czarujące;
+Szczęśliwy;46;Przedmiot ten przynosi szczęście. Postać go nosząca zdobywa zdolność “Szczęście” o ile go nie posiadała wcześniej;
+Efekt ognia Dazha;52;Przedmiot na zawołanie podpala dowolny łatwopalny dotknięty przedmiot. Dokładniejszy opis w Królestwach magii;
+Efekt czystego srebra;58;Przedmiot ten daje całkowitą odporność na efekty psychologiczne spowodowane przez ożywieńców i istoty eteryczne;
+Efekt czystości;64;Chroni przed zajściem w ciążę;
+Czarny znak Kalifa;70;Wszyscy sprzymierzeńcy w promieniu 8 metrów zyskują +10 do testów Strachu i Grozy Dokładniejszy opis w Królestwach magii;
+Srebrna pieczęć;76;Wszystkie ataki wykonywane w noszącego ten przedmiot są wykonywane z modyfikatorem -10. Dodatkowo zapewnia noszącemu premię +20 do testów Siły Woli przeciwko efektom zaklęć. Dokładniejszy opis w Królestwach magii;
+Uwięziona dusza;82;W przedmiocie uwięziona jest dusza jakiegoś nieszczęśnika. Nie wiadomo jak długo tam jest i jak wiele wie, ale można z nią porozmawiać i skorzystać z jej wiedzy;
+Zmiennokształtny;88;Za pomocą magii tego przedmiotu można zmienić się w zwierzę (jedno losowo lub dowolne) na k10 minut dziennie;
+Ochrona przed rasą;94;Przedmiot daje magiczną ochronę przed atakami, czarami i zdolnościami pochodzącymi od jednej z ras. Obrażenia zadane przez przedstawicieli tej rasy są redukowane o połowę, a wszelkie testy przeciw ich czarom i zdolnościom są wykonywane z modyfikatorem +10;db_create/magic_item_db_create/csv/special/rasy.txt
+Zmagazynowana energia;100;Korzystając z tego przedmiotu czarodziej może wykorzystać zmagazynowany ładunek magii do rzucenia własnego czaru. Każdy zużyty ładunek można uzupełnić przez godzinną medytację zakończoną zdanym testem SW;db_create/magic_item_db_create/csv/special/zmagazynowana_energia.txt

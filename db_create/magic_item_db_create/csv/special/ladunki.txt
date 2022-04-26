@@ -1,0 +1,3 @@
+01- 50 przedmiot posiada k10 ładunków jednorazowych
+51-95 ładunek można wykorzystać raz dziennie
+96-100 k10 ładunków odnawiających się o północy

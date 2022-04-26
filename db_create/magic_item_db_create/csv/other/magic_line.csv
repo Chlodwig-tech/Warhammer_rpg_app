@@ -1,0 +1,5 @@
+magic_line;chance;description
+Zaklęty sznur;25;Arabska magiczna lina, która jest ożywiona i słucha się tylko jednego właściciela, aż do jego śmierci. Może walczyć trzymając broń. Jej żywotność zależy od jej długości i ma następujące statystyki: WW: 41 US: 0 K 30 Odp 30 Zr 66 Int 10 SW 43 Ogd – A 1 Sz 3, Żyw: 1 za każde 10cm Posiada 3 punkty pancerza. Jest łatwopalna, odporna na psychologię, zawiązuje dowolne węzły, rozróżnia otoczenie i wykonuje proste polecenia. Bezpańską linę można przejąć testem SW
+Lina elfów;50;Zazwyczaj bardzo długa, dwukrotnie lżejsza od normalnej i pięciokrotnie wytrzymalsza lina stworzona z magicznych włókien elfów
+Samozawijka;75;Lina, która na komendę zawiązują bardzo silny supeł, który może zostać rozwiązany jedynie dzięki tej samej komendzie wypowiedzianej przez tą samą osobę
+Lina związania magii ;100;Lina tłumi wszelką inną magią wokół siebie. Obwiązany nią przedmiot traci magiczne właściwości, a czarodziej nią związany całkowicie traci na ten czas możliwość rzucania zaklęć

@@ -1,0 +1,6 @@
+01-50 +1 Obrażeń
+51-75 +2 Obrażeń
+76-90 +3 Obrażeń
+91-95 +4 Obrażeń
+96-98 Podwojenie zadanych ran (po odjęciu PZ i Wt)
+99-100 Zawsze podwójne obrażenia

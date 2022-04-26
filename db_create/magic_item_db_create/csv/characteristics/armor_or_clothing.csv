@@ -1,0 +1,18 @@
+armor_or_clothing;chance;description;additional
+Dodatkowa ochrona ;20;Pancerz zapewnia dodatkowe PZ (Maksymalnie do PZ 6);db_create/magic_item_db_create/csv/special/dodatkowa_ochrona.txt
+Zwiększenie cechy ;40;Pancerz zwiększa wartość cechy noszącego;db_create/magic_item_db_create/csv/special/zwiekszenie_cechy.txt
+Niezwykła lekkość ;44;Pancerz waży zaledwie połowę swojej normalnej wagi;
+Płynny pancerz ;48;Pancerz nie posiada negatywnych modyfikatorów zbroi, a jeśli pancerz takich nie posiada to otrzymuje modyfikator +10 Zręczności do wszystkich testów;
+Odporność na ogień;52;Noszący jest całkowicie odporny na działanie ognia;
+Oddychania;56;Pancerz oddycha za właściciela, a przez to noszący jest odporny na efekty duszenia się także pod wodą;
+Sprężynka;60;Postaci w tym pancerzu nie da się powalić na ziemię. Akcją natychmiastową lub reakcją może ona powstać w każdej sytuacji;
+Przemykanie;64;Postać w tym pancerzu porusza się tak zwinnie, że nie wywołuje ataków okazyjnych przy ruchu w walce;
+Żywy pancerz ;68;Pancerz może sam się poruszać wedle woli właściciela. Może walczyć i poruszać się, a także wykonywać proste czynności. Trwa to dopóki właściciel widzi pancerz i jest przytomny. By trzymać broń musi on posiadać rękawicę lub inny sposób na korzystanie z niej. Posiada poniższe statystyki (WW: 47 S:4 A:2 Sz: 6);
+Straszny;72;Pancerz wywołuje strach;
+Święty;76;Pancerz powstrzymuje ożywieńców oraz demony od podejścia do niego na odległość 6 metrów. Muszą oni wykonać test SW, by móc podejść bliżej lub uciekną poza jego zasięg;
+Zniknięcia;80;Postać nosząca ten pancerz może stać się niewidzialna na k10 minut dziennie;
+Ukrycia;84;Zapewnia stały bonus +20 do ukrywania się i skradania;
+Runiczny;88;Pancerz posiada krasnoludzką runę do decyzji (lub losowania) MG;
+Pochłaniacz magii ;92;Pancerz wchłania energię zaklęcia rzucanego na noszącego. Energia ta rozprasza się przez k10 godzin i w tym czasie nie wchłonie żadnego innego zaklęcia;
+Katalizator;96;Pancerz ten nie powoduje kary do określania poziomu mocy czarów;
+Magiczny ładunek ;100;Pancerz posiada ładunek zaklęcia w sobie, które można uaktywnić za pomocą jednego słowa;db_create/magic_item_db_create/csv/special/ladunki.txt

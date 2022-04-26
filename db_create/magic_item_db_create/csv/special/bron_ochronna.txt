@@ -1,0 +1,6 @@
+01-70 +1 PZ na każdej lokacji ciała
+71-80 +2 PZ na każdej lokacji ciała
+81-85 +3 PZ na każdej lokacji ciała
+86-95 Automatyczny sukces na parowaniu
+96- 99 Dodatkowa możliwość parowania w rundzie
+100 Dodatkowa możliwość parowania w rundzie, która zawsze jest zakończona sukcesem

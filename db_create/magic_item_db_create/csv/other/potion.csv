@@ -1,0 +1,26 @@
+potion;chance;description
+Eliksir siły;4;Zwiększa krzepę postaci o 20
+Eliksir języków;8;Umożliwia rozumienie i posługiwanie się dowolnym językiem mówionym
+Eliksir chodzenia po wodzie;12;Umożliwia chodzenie po powierzchni wody jak po stałym lądzie
+Eliksir Srebrnej skóry;16;Skóra pijącego przybiera postać srebra co znacząco ją utwardza. Postać zyskuje dodatkowy Punkt pancerza na całym ciele
+Eliksir maskowania;20;Pijący przybiera wygląd pierwszej rzeczy, o której pomyśli w chwili picia eliksiru. Działa na zasadzie iluzji, a nie zmiany fizycznej
+Eliksir Lotu ;24;Postać może unosić się w powietrzu i latać z swoją normalną prędkością. Do prawidłowego poruszania się w powietrzu wymagany jest test SW. Wykonuje się go co minutę, aż do pierwszego sukcesu. Potem umiejętność ta przychodzi instynktownie
+Eliksir Wampira;28;Magicznie przemienia pijącego niemal w w wampira. Przemiana powoduje ogromne zamieszanie w umyśle pijącego. Wymagany test SW. Zdany oznacza otrzymanie 1 punktu obłędu, niezdany oznacza otrzymanie k10 punktów obłędu. Statystyki pijącego wzrastają o +10ww, +10 K, +15 Odp, +15Zr, +10SW, +10 Ogd, +1A, +6 Żyw, +2 Sz, ale postać nie może korzystać w tym czasie z punktów szczęścia. Dodatkowo otrzymuje zdolności: Broń naturalna (kły i pazury), Dar krwi (wyssanie krwi), Straszny, ożywieniec, widzenie w ciemności i wyostrzone zmysły. Eliksir działa przez k10 dni. Po ustaniu efektów eliksiru postać przez jeden dzień śpi jakby umarła, a dopiero potem budzi się bardzo osłabiona i wraca do zdrowia przez k10 dni
+Eliksir uzdrowienia;32;Przywraca pijącemu 2k10 żywotności oraz usuwa wszelkie trucizny i efekty innych mikstur
+Eliksir niewidzialności;36;Daje pijącemu niewidzialność tak samo jak zaklęcie “niewidzialność”
+Eliksir bezsenności;40;Zwiększa Inteligencję i Siłę Woli postaci o 20 na 3k10 godzin. Potem postać pada wyczerpana. Dokładniejszy opis w Królestwach magii
+Eliksir urody;44;Zwiększa Ogładę o 20 na 2k10 godzin. Uzależnia Dokładniejszy opis w Królestwach magii
+Eliksir wyszczuplający;48;Postać przez 8 godzin spala niemal cały tłuszcz z swojego organizmu. Traci wagę, ale fałdy skóry i smród spalonego tłuszczu mocno utrudnia cieszenie się z tego faktu Dokładniejszy opis w Królestwach magii
+Likwor nazębny;52;posmarowanie nim chorego zęba natychmiast powoduje jego uleczenie lub odrośnięcie. Może spowodować wyrośnięcie zęba nawet poza jamą ustną. Dokładniejszy opis w Królestwach magii
+Mikstura jaszczurczego ogona;56;Powoduje regenerację utraconej kończyny. 50%, że zamiast odrośnięcia kończyny powstanie inna w złym miejscu. Dokładniejszy opis w Królestwach magii
+Mikstura magicznej mocy;60;Zwiększa cechę Magia o 1 na 2 minuty Dokładniejszy opis w Królestwach magii
+Mikstura splatania;64;Daje +15 do splatania magii przez k10 minut Dokładniejszy opis w Królestwach magii
+Mikstura uśmierzania bólu;68;Zwiększa odporność o 20 oraz daje całkowitą niewrażliwość na ból przez k10 godzin Dokładniejszy opis w Królestwach magii
+Mikstura wyostrzenia zmysłów;72;Daje postaci Bystry Wzrok i Czuły Słuch na k10/2 godzin Dokładniejszy opis w Królestwach magii
+Mikstura wzmocnienia;76;Zwiększa krzepę i odporność o 15 na k10 godzin Dokładniejszy opis w Królestwach magii
+Nektar piękności;80;Usuwa wszystkie blizny, znamiona i przebarwienia oraz większa ogładę o 10 na 3k10 godzin. Dokładniejszy opis w Królestwach magii
+Płyn na porost włosów;84;W miejscu posmarowania bardzo szybko rosną włosy. Dokładniejszy opis w Królestwach magii
+Przyjaciel opoja;88;k10 godzin odporności na efekty alkoholi. Dokładniejszy opis w Królestwach magii
+Ślina boga;92;Posmarowane dłonie stają się twarde jak kastety oraz zwiększa odporność i zręczność o 5 na k10 minut. Dokładniejszy opis w Królestwach magii
+Woń knura;96;Pijący zaczyna mocno śmierdzieć co daje -20 do ogłady, ale wszyscy wokół otrzymują -5 do ww i us. Dokładniejszy opis w Królestwach magii
+Esencja bóstwa;100;Ten eliksir zawiera boski pierwiastek, który wprowadza w stan inspiracji. Pierwsza czynność jaką się zajmie postać po jej wypiciu będzie będzie wykonana niemal perfekcyjnie, a jej efekty mogą przerosnąć najśmielsze oczekiwania. Pierwszy test po wypiciu tej mikstury jest wykonywany z modyfikatorem +60

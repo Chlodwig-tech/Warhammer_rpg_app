@@ -1,0 +1,38 @@
+weapon;chance;description;additional
+Dodatkowe obrażenia ;20;Broń zadaje więcej obrażeń niż normalnie;db_create/magic_item_db_create/csv/special/dodatkowe_obrazenia.txt
+Zwiększenie cechy ;30;Broń zwiększa jedną z cech noszącego. Musi ona być trzymana w rękach, by efekt zadziałał 200;db_create/magic_item_db_create/csv/special/zwiekszenie_cechy.txt
+Wyssanie sił ;32;Każde zranienie przeciwnika wysysa część jego sił i przekazuje ją noszącemu tą broń. Każdorazowo rzuca się k10 punktów. Efekt działa na 2 rundy walki;db_create/magic_item_db_create/csv/special/wyssanie_sil.txt
+Wampiryzm;34;Broń naprawdę pije krew swojej ofiary i wzmacnia nią swojemu właścicielowi. Za każdy punkt żywotności zabrany celowi właściciel odzyskuje 1 punkt żywotności;
+Zguba rasy ;36;Broń ta zadaje podwójne rany przeciwnikom należącym do konkretnej rasy;db_create/magic_item_db_create/csv/special/rasy.txt
+Magiczny oddech ;38;Broń magicznie oddycha za właściciela, a przez to noszący jest odporny na efekty duszenia się także pod wodą;
+Straszna;40;Noszący tą broń wzbudza strach w przeciwnikach;
+Wykrycie rasy ;42;Broń świeci, brzęczy, drga lub w inny sposób komunikuje obecność przedstawiciela konkretnej rasy w zasięgu 100 metrów;db_create/magic_item_db_create/csv/special/rasy.txt
+Odsyłająca;44;Broń jest zabójcza dla ożywieńców i demonów. Każdy zranienie demona lub ożywieńca przez tą broń powoduje efekt niestabilności i ofiara musi wykonać test Siły Woli, by nie zostać odesłaną w niebyt;
+Ognista;46;Poza normalnymi obrażeniami broń podpala przeciwnika;
+Lodowa;48;Poza normalnymi obrażeniami broń zadaje k10 obrażeń od zimna. Ofiara może wykonać test odporności, by uniknąć tych obrażeń;
+Zatruta;50;Broń jest magicznie zatruta. Każda zraniona nią istota musi wykonać test odporności. Jeśli się on nie powiedzie traci ona dodatkowe 3 pkt żywotności;
+Świetlista;52;Broń na zawołanie rozświetla się jasnym światłem. Jeśli została rozświetlona w trakcie wykonywania ataku to przeciwnik zostaje ogłuszony na 1 rundę. Raz rozświetlona broń świeci przez k10 minut i daje światło o takim zasięgu jak pochodnia;
+Eteryczna;54;Broń w walce staje się eteryczna. Nie można jej parować nie-magiczną bronią oraz omija nie-magiczny pancerz;
+Krwawiąca;56;Każde zranienie przeciwnika powoduje krwawienie. Krew magicznie jest przyciągana do broni i w walce ostrze z czasem staje się całkowicie pokryte krwią;
+Usypiająca;58;Postać zraniona tą bronią musi wykonać test Siły Woli, by nie zostać uśpiona (tak jak w przypadku zaklęcia “uśpienie”);
+Ogłupiająca;60;Postać zraniona tą bronią zostaje ogłupiona na k10 rund (nie kumuluje się). Za każdym razem, gdy chce wykonać akcję w walce musi zdać test inteligencji;
+Lot;62;Broń daje możliwość prostego lotu i pikowania z powietrza przez 10+k10 rund dziennie;
+Ochronna;64;Broń posiada magiczne właściwości ochrony;db_create/magic_item_db_create/csv/special/bron_ochronna.txt
+Odporność na ogień;66;Właściciel broni jest odporny na działanie ognia, gdy trzyma broń w ręce;
+Gromowładna;68;Broń jest naładowana mocą błyskawic. Uderzenie z tej broni ignoruje pancerz metalowy;
+Druzgocząca;70;Broń zdobywa cechę “Druzgocąca”, a jeśli już ją miała to zamiast tego zsumuje oba wyniki na rzuconych kościach zamiast wybierać wyższy;
+Śmiertelna;72;Efekt krytyczny zadany przy pomocy tej broni zawsze jest o dwa stopnie wyższy;
+Żywa broń ;74;Broń może zostać ożywiona jednym słowem i będzie unosić się w powietrzu i atakować wskazane przez właściciela cele. Nie może zostać zniszczona, ale przestanie działać, gdy właściciel straci ją z oczu lub straci przytomność. Żywa broń posiada poniższe statystyki i zawsze działa w rundzie właściciela (WW:57 S:4 A:2 Sz:6);
+Ażurowa;76;Broń wykonana została z bardzo lekkiego metalu oraz pokryta magicznymi inskrypcjami. Właściciel otrzymuje modyfikator +k10 Inicjatywy;
+Tłumiąca magię ;78;Broń całkowicie tłumi magię oddziaływającą na właściciela poza samą bronią. Jest on całkowicie odporny na magiczne efekty zaklęć, a magiczne pociski uderzają w niego z maksymalną Siłą 0;
+Pożeracz magii ;80;Broń zadaje dodatkowe obrażenia równe potrójnej wartości cechy Magia ofiary oraz omija magiczne właściwości celu;
+Zniknięcia;82;Postać nosząca tą broń może stać się niewidzialna na k10 minut dziennie. Działa jaka zaklęcie “niewidzialność”;
+Furia;84;Postać automatycznie wchodzi w stan Szału Bojowego przy pierwszym uderzeniu tą bronią w walce;
+Regeneracja;86;Noszący tą broń może wykonać test odporności co rundę. Udany test pozwala zregenerować k10 pkt żywotności;
+Święta;88;Broń ta zadaje +3 obrażeń demonom i nieumarłym oraz wywołuje u nich strach;
+Niszcząca;90;Ta broń potrafi zniszczyć każdy nie-magiczny oręż. Po każdym parowaniu ataku tej broni rzuca się k10. Wynik powyżej 5 oznacza, że broń parująca zostaje zniszczona. Jeśli broń parująca jest magiczna to niszczy się tylko przy wyrzuceniu 10;
+Pochłaniająca czary ;92;Broń wchłania moc każdego zaklęcia rzuconego na noszącego. Zaklęcie nie zadziała, a broń zyska jednorazową premię do obrażeń w wysokości wartości cechy Magia rzucającego wchłonięty czar. Działa to także na czary “pozytywne” rzucane na noszącego;
+Potężne uderzenie ;94;Raz dziennie broń może uderzyć z Siłą 10;
+Runiczna;96;Broń posiada na sobie krasnoludzka runę do decyzji (lub losowania) MG;
+Katalizator;98;Broń pomaga rzucać czary i dodaje wartość cechy Magia do poziomu mocy przy rzucaniu czaru;
+Magiczny ładunek ;100;Broń posiada ładunek zaklęcia w sobie, które można uaktywnić za pomocą jednego słowa;
