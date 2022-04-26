@@ -1,0 +1,49 @@
+<Character_card>:
+    canvas.before:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+    BoxLayout:
+        orientation: 'vertical'
+        size_hint_y: 2
+            
+        Label:
+            text:"Imię: Torendil"
+            color: 'black'
+            size_hint_y: 0.1
+
+        BoxLayout:
+            size_hint_y: 0.1
+            orientation: 'vertical'
+            canvas.before:
+                Color:
+                    rgba: 0.5,0.5,0.5,1            
+                Rectangle:
+                    pos: self.pos
+                    size: self.size
+            Label:
+                text:"Cechy"
+                color: 'black'
+                size_hint_y: 0.3
+            BoxLayout:
+                id: cechy_glowne
+            BoxLayout:
+                id: cechy_drugorzedne
+
+        BoxLayout:
+            orientation: 'vertical'
+            Label:
+                text:"Bohater"
+                color: 'black'
+            Label:
+                text:"Imię: Torendil"
+                color: 'black'
+            Label:
+                text:"Imię: Torendil"
+                color: 'black'
+            Label:
+                text:"Imię: Torendil"
+                color: 'black'
+            Label:
+                text:"Imię: Torendil"
+                color: 'black'

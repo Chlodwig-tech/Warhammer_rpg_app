@@ -1,0 +1,47 @@
+<Welcome>:
+    orientation: 'vertical'
+    PageLayout:
+        id: pagelayout
+        border: 0
+        BoxLayout:
+            canvas.before:
+                Rectangle:
+                    pos: self.pos
+                    size: self.size
+            Label:
+                text: '1'
+                color: 'black'
+        Character_card:
+            canvas.before:
+                Rectangle:
+                    pos: self.pos
+                    size: self.size
+            id: charac_card
+        BoxLayout:
+            canvas.before:
+                Rectangle:
+                    pos: self.pos
+                    size: self.size
+            orientation: 'vertical'
+            Image:
+                source: 'kivyapp/images/logo.png'
+            Label:
+                text: 'RPG Generator'
+            Button:
+                text: 'Generuj przedmiot magiczny'
+                on_on_press: root.change_screen('generate_magic_item')
+                
+            Button:
+                text: 'Profesja'
+                on_press: root.change_screen('show_profession')
+
+        
+
+        BoxLayout:
+            canvas.before:
+                Rectangle:
+                    pos: self.pos
+                    size: self.size
+            Label:
+                text: '1'
+                color: 'black'

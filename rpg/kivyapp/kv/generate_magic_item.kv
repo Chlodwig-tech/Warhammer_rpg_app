@@ -1,0 +1,33 @@
+<Generate_magic_item>:
+    canvas.before:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+
+    BoxLayout:
+        orientation: 'vertical'
+        BoxLayout:
+            orientation: 'vertical'
+            id: print_item
+            Label:
+                id: l1
+                padding: 10, 10
+                color: 'black'
+                size_hint: (1,0.5)
+            Label:
+                id: l2
+                padding: 10, 10
+                color: 'black'
+                size_hint: (1,0.2)
+            ScrollView:
+                Label:
+                    id: t1
+                    padding: 10, 10
+                    color: 'black'
+                    text_size: self.width,None
+                    size_hint_y: None
+                    height: self.texture_size[1]
+
+        BoxLayout:
+            id: buttons
+            orientation: 'vertical'

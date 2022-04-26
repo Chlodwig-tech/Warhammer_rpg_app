@@ -1,0 +1,50 @@
+<Show_profession>:
+    canvas.before:
+        Rectangle:
+            pos: self.pos
+            size: self.size
+    BoxLayout:
+        id: boxlayout
+        orientation: 'vertical'
+        BoxLayout:
+            id: profession
+        Label:
+            id: version
+            color: 'black'
+            size_hint_y: 0.2
+
+        BoxLayout:
+            orientation: 'vertical'
+            BoxLayout:
+                id: stats1
+                orientation: 'horizontal'
+            BoxLayout:
+                id: stats2
+                orientation: 'horizontal'
+            
+        
+        RstDocument:
+			background_color: 0.5,0.5,0.5,0.5
+			text: 'Umiejętności: '
+            id: skills
+        RstDocument:
+            text: 'Zdolności: '
+            id: talents
+        RstDocument:
+			background_color: 0.5,0.5,0.5,0.5
+			text: 'Wyposażenie: '
+            id: trappings
+        RstDocument:
+            text: 'Profesje wejściowe: '
+            id: c_entries
+        RstDocument:
+			background_color: 0.5,0.5,0.5,0.5
+			text: 'Profesje wyjściowe: '
+            id: c_exits
+
+        BoxLayout:
+            orientation: 'vertical'
+            id: bl2
+            Button:
+                text: 'Menu'
+                on_press: root.change_screen('welcome')
